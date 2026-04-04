@@ -2,3 +2,5 @@
 Developed an option price prediction model using Monte Carlo simulation with a Path Shadowing approach. Simulated stock price paths via Geometric Brownian Motion and applied weighted path selection to capture market volatility. Compared results with the Black-Scholes model, achieving improved prediction accuracy using real-world stock data.
 
 Updated The README!!
+
+Day 2
